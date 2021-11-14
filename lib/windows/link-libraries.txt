@@ -1,7 +1,8 @@
-#Include Libraries As Follows:
+Windows Dependencies:
 
 ssl
-crypto
 gdi32
+
+crypto
 crypt32
 ws2_32
